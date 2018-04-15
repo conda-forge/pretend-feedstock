@@ -1,6 +1,6 @@
 {% set name = "pretend" %}
-{% set version = "1.0.8" %}
-{% set sha256 = "930f2c1e18503e8f8c403abe2e02166c4a881941745147e712cdd4f49f3fb964" %}
+{% set version = "1.0.9" %}
+{% set sha256 = "c90eb810cde8ebb06dafcb8796f9a95228ce796531bc806e794c2f4649aa1b10" %}
 
 package:
   name: {{ name|lower }}
