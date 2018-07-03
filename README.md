@@ -14,14 +14,15 @@ Summary: A library for stubbing in Python
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pretend-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pretend-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pretend-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pretend-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pretend-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pretend-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pretend-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pretend-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pretend/badges/version.svg)](https://anaconda.org/conda-forge/pretend)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pretend/badges/downloads.svg)](https://anaconda.org/conda-forge/pretend)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pretend-green.svg)](https://anaconda.org/conda-forge/pretend) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pretend.svg)](https://anaconda.org/conda-forge/pretend) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pretend.svg)](https://anaconda.org/conda-forge/pretend) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pretend.svg)](https://anaconda.org/conda-forge/pretend) |
 
 Installing pretend
 ==================
